@@ -3,4 +3,7 @@
 
 
 # Saisir le bon username
-    Input Text    id=idObject    admin
+    Input Text    id=idObject    texte
+
+# Saisir un mauvais mot de passe
+    Input Password    id=j_password    Motdepass
